@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analysis — Excel Dashboard Project
+1# 📊 Sales Performance Analysis — Excel Dashboard Project
 
 ## Project Overview
 
@@ -108,7 +108,7 @@ Sales-Performance-Analysis/
 │
 ├── Sales_Performance.xlsx    # Full workbook with dashboard and pivot tables
 ├── raw_data.csv              # Raw dataset
-├── dashboard.png             # Dashboard screenshot
+├── Dashboard.png             # Dashboard screenshot
 └── README.md                 # This file
 ```
 
