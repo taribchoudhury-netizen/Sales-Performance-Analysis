@@ -30,7 +30,7 @@ segments, and shipping patterns across 9,689 orders using Pivot Tables and an in
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
+![Sales Performance Dashboard](Dashboard.png)
 
 ---
 
